@@ -123,11 +123,11 @@ The optimized result for this run can be seen at the end of the [BO-SOAP.out](ht
 
 ## Contributions
 
-- AL4GAP was conceptualized and executed by [Ganesh Sivaraman](https://github.com/pythonpanda2). 
+- AL4GAP was conceptualized and implemented by [Ganesh Sivaraman](https://github.com/pythonpanda2). 
 
 - [Ganesh Sivaraman](https://github.com/pythonpanda2) wrote the core components of AL4GAP with collaboration/ contribution from [Prof. Nicholas Jackson](https://github.com/TheJacksonLab).
 
-- [Vanessa Woo](https://github.com/vswoo) completed the AL4GAP ensemble driver script, added bug fix to atom packing method, tutorials, workflow image and wrote the GitHub documentations with input from GS.
+- [Vanessa Woo](https://github.com/vswoo) implemented the AL4GAP ensemble driver script, added bug fix to atom packing method, added tutorials, created the workflow image, and wrote the GitHub documentations with input from GS.
 
 
 ## Acknowledgments
