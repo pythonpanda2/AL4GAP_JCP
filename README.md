@@ -121,6 +121,12 @@ The optimized result for this run can be seen at the end of the [BO-SOAP.out](ht
 "MAE": 0.458909397734845}
 ```
 
+### How to cite ?
+If you are using the AL4GAP workflow  in your research, please cite us as
+```
+ @article{guo_woo_andersson_hoyt_williamson_foster_benmore_jackson_sivaraman_2023, place={Cambridge}, title={AL4GAP: Active Learning Workflow for generating DFT-SCAN Accurate Machine-Learning Potentials for Combinatorial Molten Salt Mixtures}, DOI={10.26434/chemrxiv-2023-wzv3q}, journal={ChemRxiv}, publisher={Cambridge Open Engage}, author={Guo, Jicheng and Woo, Vanessa and Andersson, David and Hoyt, Nathaniel and Williamson, Mark and Foster, Ian and Benmore, Chris and Jackson, Nicholas and Sivaraman, Ganesh}, year={2023}} This content is a preprint and has not been peer-reviewed.
+```
+
 ## Contributions
 
 - AL4GAP was conceptualized and implemented by [Ganesh Sivaraman](https://github.com/pythonpanda2). 
