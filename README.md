@@ -121,7 +121,7 @@ The optimized result for this run can be seen at the end of the [BO-SOAP.out](ht
 "MAE": 0.458909397734845}
 ```
 
-### How to cite ?
+## How to cite ?
 If you are using the AL4GAP workflow  in your research, please cite us as
 ```
  @article{guo_woo_andersson_hoyt_williamson_foster_benmore_jackson_sivaraman_2023, place={Cambridge},
