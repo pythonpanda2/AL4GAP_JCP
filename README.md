@@ -1,6 +1,6 @@
 #  Active Learning  Workflow for Gaussian Approximation Potential (AL4GAP)
 #### October 2022
-This repository provides documentation for the ensemble active learning of [Gaussian approximation potentials](https://libatoms.github.io/GAP/index.html). 
+This repository provides documentation for the  active learning of [Gaussian approximation potentials](https://libatoms.github.io/GAP/index.html). 
 
 ![](https://github.com/vswoo/AL4GAP/blob/main/AL4GAP_workflow.jpg)
 
