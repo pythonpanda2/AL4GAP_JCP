@@ -4,9 +4,10 @@ This repository provides documentation for the  active learning workflow for [Ga
 
 ![](https://github.com/vswoo/AL4GAP/blob/main/AL4GAP_workflow.jpg)
 
-The workflow capabilities includes: (1) setting up user-defined combinatorial chemical spaces of charge neutral mixtures of arbitrary molten mixtures spanning^ **11 cations (Li, Na, K, Rb, Cs, Mg, Ca, Sr, Ba and two heavy species, Nd and Th) and 4 anions (F, Cl, Br and I)**, (2) configurational sampling using low-cost empirical parameterizations, (3) ensemble active learning for down-selecting configurational samples for single point density functional theory calculations at the level of strongly constrained and appropriately normed (SCAN) exchange-correlation functional, and (4) Bayesian optimization for hyperparameter tuning of two-body and many-body GAP models. 
+The workflow capabilities includes: (1) setting up user-defined combinatorial chemical spaces of charge neutral mixtures of arbitrary molten mixtures spanning^ **11 cations (Li, Na, K, Rb, Cs, Mg, Ca, Sr, Ba and two heavy species, Nd and Th) and 4 anions (F, Cl, Br and I)**, (2) configurational sampling using low-cost empirical parameterizations, (3) ensemble active learning for down-selecting configurational samples for single point density functional theory calculations at the level of strongly constrained and appropriately normed (SCAN) exchange-correlation functional, and (4) Bayesian optimization for hyperparameter tuning of two-body and many-body GAP models*. 
 
-**^ The systems covered in the preprint explored  binary salt mixture space. But the workflow can handle more than two salt mixtures and can be any arbitrary charge neutral combination drawn from the supported element types**.
+** ^The systems covered in the preprint explored  binary salt mixture space. But the workflow can handle more than two salt mixtures and can be any arbitrary charge neutral combination drawn from the supported element types**.
+
 
 ## Prerequisites
 This workflow uses miniconda3 and Python 3.7. For Bebop users, Anaconda can be loaded with the command:
