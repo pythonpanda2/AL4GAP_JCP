@@ -139,6 +139,10 @@ If you are using the AL4GAP workflow  in your research, please cite us as
  This content is a preprint and has not been peer-reviewed.
 ```
 
+[![DOI](https://zenodo.org/badge/623237723.svg)](https://zenodo.org/badge/latestdoi/623237723)
+
+
+
 ## Contributions
 
 - AL4GAP was conceptualized and implemented by [Ganesh Sivaraman](https://github.com/pythonpanda2). 
