@@ -1,6 +1,6 @@
 #  Active Learning  Workflow for Gaussian Approximation Potential (AL4GAP)
 #### October 2022
-This repository provides documentation for the  active learning workflow for [Gaussian approximation potentials](https://libatoms.github.io/GAP/index.html). The preprint associated with this repository can be found [here](https://chemrxiv.org/engage/chemrxiv/article-details/6442cec083fa35f8f6069726).
+This repository provides documentation for the  active learning workflow for [Gaussian approximation potentials](https://libatoms.github.io/GAP/index.html). The published article associated with this repository can be found [here](https://pubs.aip.org/aip/jcp/article/159/2/024802/2901782/AL4GAP-Active-learning-workflow-for-generating-DFT).
 
 ![](https://github.com/vswoo/AL4GAP/blob/main/AL4GAP_workflow.jpg)
 
@@ -129,14 +129,20 @@ The optimized result for this run can be seen at the end of the [BO-SOAP.out](ht
 ## How to cite ?
 If you are using the AL4GAP workflow  in your research, please cite us as
 ```
- @article{guo_woo_andersson_hoyt_williamson_foster_benmore_jackson_sivaraman_2023, place={Cambridge},
- title={AL4GAP: Active Learning Workflow for generating DFT-SCAN Accurate Machine-Learning Potentials for Combinatorial Molten Salt Mixtures},
- DOI={10.26434/chemrxiv-2023-wzv3q},
- journal={ChemRxiv},
- publisher={Cambridge Open Engage},
- author={Guo, Jicheng and Woo, Vanessa and Andersson, David and Hoyt, Nathaniel and Williamson, Mark and Foster, Ian and Benmore, Chris and Jackson, Nicholas and Sivaraman, Ganesh},
- year={2023}}
- This content is a preprint and has not been peer-reviewed.
+@article{guo_woo_andersson_hoyt_williamson_foster_benmore_jackson_sivaraman_2023,
+    author = {Guo, Jicheng and Woo, Vanessa and Andersson, David A. and Hoyt, Nathaniel and Williamson, Mark and Foster, Ian and Benmore, Chris and Jackson, Nicholas E. and Sivaraman, Ganesh},
+    title = "{AL4GAP: Active learning workflow for generating DFT-SCAN accurate machine-learning potentials for combinatorial molten salt mixtures}",
+    journal = {The Journal of Chemical Physics},
+    volume = {159},
+    number = {2},
+    pages = {024802},
+    year = {2023},
+    month = {07},
+    issn = {0021-9606},
+    doi = {10.1063/5.0153021},
+    url = {https://doi.org/10.1063/5.0153021},
+    eprint = {https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0153021/18037065/024802\_1\_5.0153021.pdf},
+}
 ```
 
 [![DOI](https://zenodo.org/badge/623237723.svg)](https://zenodo.org/badge/latestdoi/623237723)
