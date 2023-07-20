@@ -126,6 +126,10 @@ The optimized result for this run can be seen at the end of the [BO-SOAP.out](ht
 "MAE": 0.458909397734845}
 ```
 
+### Additional notes
+ Retraining on metadynamics is covered in the published article. Retraining on a few configurations  sampled at different volume using the partially trained GAP model is also helpful. 
+
+
 ## How to cite ?
 If you are using the AL4GAP workflow  in your research, please cite us as
 ```
