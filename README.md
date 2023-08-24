@@ -29,7 +29,7 @@ Note that most developer systems already have many of these packages installed, 
 
 Next, use the following terminal commands to create the conda environment (“al4gap”) based on the repository requirements:
 ```bash
-git clone https://github.com/vswoo/AL4GAP.git
+git clone https://github.com/pythonpanda2/AL4GAP_JCP.git
 ```
 ```bash
 cd AL4GAP
